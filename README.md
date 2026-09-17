@@ -224,33 +224,7 @@ Historical Battery Degradation Analysis
 Automatic CSV Data Generation
 MATLAB Dashboard
 Battery Temperature and Voltage Analysis
-15. GITHUB PROJECT STRUCTURE
-
-The recommended GitHub project structure is:
-
-battery-soh-prediction/
-│
-├── README.md
-│
-├── data/
-│   └── battery_data.csv
-│
-├── src/
-│   └── battery_health_check.m
-│
-├── results/
-│   └── battery_health.png
-│
-├── screenshots/
-│   └── matlab_output.png
-│
-└── docs/
-    └── Battery_SOH_Analysis_Report.pdf
-Important privacy note
-
-If your GitHub repository is public, avoid uploading your personal battery-report.html, because Windows battery reports can contain device and usage information. For GitHub, use the extracted data or a sanitized dataset instead.
-
-16. CONCLUSION
+15. CONCLUSION
 
 This project successfully demonstrates a MATLAB-based approach for analyzing laptop battery health using a Windows Battery Report.
 
@@ -266,7 +240,7 @@ Battery SOH: 65.44%
 
 The project provides a practical foundation for further development into machine-learning-based Battery SOH and Remaining Useful Life (RUL) prediction systems.
 
-17. AUTHOR
+16. AUTHOR
 
 Vignesh S
 
